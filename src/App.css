@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
+
+
+.app {
+    padding: 40px;
+}
+
+.title {
+    text-align: center;
+    font-family: "Bricolage Grotesque", sans-serif;
+    font-size: 50px;
+}
+
+.cards {
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
